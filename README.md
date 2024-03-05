@@ -28,5 +28,6 @@ The output HTML file is named index.html, while the Javascript code is located i
 
 The information shown on the HTML is for the selected id, with the initial visualisations showing id 940. By selecting a different id from the drop down list, the page will refresh to display the corresponding data for that id.
 ## Running
-To run this code, a web browser is required to view the outputted HTML file. To view the Javascript code, select inspect within the browser and select the Sources tab. Alternatively, an easier editor is Visual Studio Code (link to install below)\
+This challenge is available at the following github page; https://bradfisher18.github.io/belly-button-challenge/ \
+Alternatively, to access the index.html file, a web browser is required. To view the Javascript code, select inspect within the browser and select the Sources tab. If preferred, an easier editor is Visual Studio Code (link to install below)\
 Visual Studio Code install: https://code.visualstudio.com/download
